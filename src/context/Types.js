@@ -1,0 +1,8 @@
+export const ADD_NEW_ITEM = 'ADD_NEW_ITEM'
+export const DELETE_ITEM = 'DELETE_ITEM'
+export const EDIT_ITEM = 'EDIT_ITEM'
+export const CANCEL_EDIT_ITEM = 'CANCEL_EDIT_ITEM'
+export const SAVE_CHANGES = 'SAVE_CHANGES'
+export const DELETE_ALL = 'DELETE_ALL'
+export const FILTER_BY_STATUS = 'FILTER_BY_STATUS'
+export const GET_ITEMS_OF_LOCAL_STORAGE = ' GET_ITEMS_OF_LOCAL_STORAGE'
