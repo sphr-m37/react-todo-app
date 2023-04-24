@@ -1,4 +1,3 @@
-import React from 'react'
 import {
     ADD_NEW_ITEM,
     CANCEL_EDIT_ITEM,
@@ -6,7 +5,6 @@ import {
     DELETE_ITEM,
     EDIT_ITEM,
     SAVE_CHANGES,
-    FILTER_BY_STATUS,
     GET_ITEMS_OF_LOCAL_STORAGE
 }
     from './Types'

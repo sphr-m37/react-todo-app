@@ -9,7 +9,6 @@ import {
     CANCEL_EDIT_ITEM,
     SAVE_CHANGES,
     DELETE_ALL,
-    FILTER_BY_STATUS,
     GET_ITEMS_OF_LOCAL_STORAGE,
 }
     from './Types'

@@ -1,4 +1,4 @@
-import React, { useCallback, useContext, useState } from 'react'
+import React, { useCallback, useContext } from 'react'
 import styles from '.././Style.module.css'
 import { todoContext } from '../context/todoContext'
 import SelectStatuses from './SelectStatuses'
